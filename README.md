@@ -43,5 +43,6 @@
 
 7. 올림픽대로(동작구)
 
-![KakaoTalk_20210815_153018279](https://user-images.githubusercontent.com/54710010/132084310-354e64d5-2297-4322-9407-fbb6c54cdfc6.png)
+![KakaoTalk_20210815_153018279](https://user-images.githubusercontent.com/54710010/132084325-96f01300-d312-4f35-a943-7aa05bab34eb.png)
+
 
